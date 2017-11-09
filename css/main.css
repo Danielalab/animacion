@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  height: 330px;
+  width: 33%;
+  margin: 10% 35%;
+}
+
+.container .row {
+  height: 100px;
+}
+
+.container .row .cell {
+  border: 1px solid black;
+  float: left;
+  height: 100px;
+  margin: 5px;
+  padding-top: 34px;  
+  text-align: center;
+  width: 100px;
+}
+
+.start {
+  background-color:red; 
+}
